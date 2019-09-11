@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\eligeo2\OneDrive\Ny mapp\prog1_Elias_Georgsson\.metadata\.plugins\org.eclipse.jdt.core
+1784218174.index
+113558702.index
